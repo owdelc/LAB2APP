@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Indice de Masa Corporal</string>
+    <string name="peso_kg">Peso (Kg)</string>
+    <string name="altura_metros">Altura (Metros)</string>
+</resources>
