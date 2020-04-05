@@ -2,4 +2,15 @@
     <string name="app_name">Indice de Masa Corporal</string>
     <string name="peso_kg">Peso (Kg)</string>
     <string name="altura_metros">Altura (Metros)</string>
+    <string name="CalcularIMC"> Calcular IMC</string>
+    <string name="kg">Kilogramos</string>
+    <string name="mt">Metros</string>
+
+    <string name="peso_bajo">Peso Bajo</string>
+    <string name="peso_normal">Peso Normal</string>
+    <string name="sobrepeso">Sobrepeso </string>
+    <string name="obesidad">Obesidad</string>
+    <string name="todo">TODO</string>
+    <string name="resultado">Resultado</string>
+
 </resources>
